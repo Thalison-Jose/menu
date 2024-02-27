@@ -17,6 +17,7 @@ span{
     width: 100%;
     text-align: center;
     padding-bottom: 5px;
+    cursor: pointer;
 }
 menu{
     display: none;

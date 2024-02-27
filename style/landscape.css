@@ -1,0 +1,17 @@
+#burger{
+    display: none;
+}
+#menu{
+    display: inline-block;
+    background-color: black;
+    text-align: left;
+}
+menu ul{
+    background-color: #111010;
+}
+li{
+    display: inline-block;
+}
+a{
+    color: #ffffff;
+}
